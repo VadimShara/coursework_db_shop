@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/jackc/pgx/v5/pgxpool"
-	"github.com/VadimShara/coursework_DB_shop/internal/config"
-	"github.com/VadimShara/coursework_DB_shop/internal/models"
+	"github.com/VadimShara/coursework_db_shop/internal/config"
+	"github.com/VadimShara/coursework_db_shop/internal/models"
 )
 
 var (

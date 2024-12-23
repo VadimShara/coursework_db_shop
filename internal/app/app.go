@@ -2,9 +2,8 @@ package app
 
 import (
 	"github.com/VadimShara/coursework_db_shop/internal/service"
-	"github.com/VadimShara/coursework_DB_shop/internal/repo"
-	"github.com/VadimShara/coursework_DB_shop/internal/config"
-
+	"github.com/VadimShara/coursework_db_shop/internal/repo"
+	"github.com/VadimShara/coursework_db_shop/internal/config"
 )
 
 type App struct {

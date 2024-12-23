@@ -1,7 +1,7 @@
 package service
 
 import(
-	"github.com/VadimShara/coursework_DB_shop/internal/repo"
+	"github.com/VadimShara/coursework_db_shop/internal/repo"
 )
 
 type Service struct {

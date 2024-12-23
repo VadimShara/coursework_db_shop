@@ -3,7 +3,7 @@ package service
 import (
 	"fmt"
 
-	"github.com/VadimShara/coursework_DB_shop/internal/models"
+	"github.com/VadimShara/coursework_db_shop/internal/models"
 )
 
 func (s *Service) AddSale() {

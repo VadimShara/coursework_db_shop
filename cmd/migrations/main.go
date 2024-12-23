@@ -4,8 +4,8 @@ import (
 	"flag"
 	"log"
 
-	"github.com/VadimShara/coursework_DB_shop/internal/config"
-	"github.com/VadimShara/coursework_DB_shop/internal/repo"
+	"github.com/VadimShara/coursework_db_shop/internal/config"
+	"github.com/VadimShara/coursework_db_shop/internal/repo"
 
 	"github.com/golang-migrate/migrate/v4"
 	_ "github.com/golang-migrate/migrate/v4/database/postgres"
